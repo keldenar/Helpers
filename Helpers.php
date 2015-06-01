@@ -9,7 +9,7 @@
 namespace bcombast;
 use Illuminate\Support\Debug\Dumper;
 
-class Helpers {
+class BCHelpers {
 
     public function __construct()
     {
